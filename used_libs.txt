@@ -1,0 +1,3 @@
+pip install -U textblob
+pip install nltk
+pip install flair

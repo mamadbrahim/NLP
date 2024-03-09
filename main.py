@@ -15,5 +15,6 @@ text_N = """ I recently purchased a new laptop, and I have to say I am quite dis
         and the keyboard is not comfortable to type on. I regret my decision and would not recommend this laptop to 
         anyone in need of a reliable and efficient device."""
 
-print(blob_fun(text_N))
+# print(blob_fun(text_N))
 # print(vader_fun(text_N))
+print(flair_fun(text_P))
